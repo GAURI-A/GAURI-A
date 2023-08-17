@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
-- 🌱 I’m currently learning **backend development**
 
 - 📫 How to reach me **gauri.ajgar2002@gmail.com**
 
